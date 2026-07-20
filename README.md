@@ -5,10 +5,10 @@ Assignment-1.py is the Main File  and Assignment-1.ipynb is the python notebook 
 
 ## Author
 
-Name : Abhishek Thakur
-Reg. No. : 23MIM10078
-Application No. : IN26011189
-Batch : 1A
+Name : Abhishek Thakur 
+Application No. : IN26011189 
+Batch : 1A 
+Assignment : 1 
 
 
 Integrated M.Tech in Artificial Intelligence
