@@ -92,28 +92,19 @@ assignment-1/
 
 ## Model Performance
 
+The Multiple Linear Regression model was evaluated using standard regression metrics.
+
 | Metric | Value |
 |--------|------:|
 | Mean Absolute Error (MAE) | 4186.51 |
 | Mean Squared Error (MSE) | 33635210.43 |
 | R² Score | 0.7833 |
 
----
+### Actual vs Predicted Scatter Plot
 
-## Sample Output
+The figure below compares the actual insurance charges with the values predicted by the Multiple Linear Regression model.
 
-Place the generated scatter plot inside the `images` folder.
-
-```text
-images/
-└── actual_vs_predicted.png
-```
-
-After pushing to GitHub, display it with:
-
-```markdown
 ![Actual vs Predicted Scatter Plot](images/actual_vs_predicted.png)
-```
 
 ---
 
