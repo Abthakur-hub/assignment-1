@@ -14,3 +14,9 @@ dataset/
 
 # macOS
 .DS_Store
+
+# Images
+images/
+
+# Python requirements
+requirements.txt
