@@ -1,6 +1,7 @@
 # Medical Insurance Cost Prediction using Multiple Linear Regression
 
 ---
+Assignment-1.py is the Main File  and Assignment-1.ipynb is the python notebook with code and ouput.
 
 ## Author
 
