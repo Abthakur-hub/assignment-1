@@ -33,7 +33,7 @@ print(df.head())
 print("\nDataset Shape:", df.shape)
 
 print("\nDataset Information")
-print(df.info())
+df.info()
 
 print("\nStatistical Summary")
 print(df.describe())
